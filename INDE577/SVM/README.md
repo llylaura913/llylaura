@@ -13,7 +13,7 @@ Support vector machines (SVMs) are a set of supervised learning methods used for
 ### Datasets:
     The dataset for Linear SVM is from sklearn.datasets import make_blobs.   
     
-    The dataset for Nonlinear SVM is from sklearn.datasets import make_moons. 
+    The dataset for Nonlinear SVM is created by myself. 
 
 
 ```python
